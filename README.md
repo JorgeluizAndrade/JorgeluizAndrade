@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jorge luiz.
+- <h1>👋 Hi, I’m Jorge Luiz.</h1>
 - 👀 I'm interested in being a Front End dev.
 - 🌱 I’m currently learning Front End.
 - 📫 How to reach me @luizj1718@gmail.com or https://www.linkedin.com/in/jorge-andradesouza/
