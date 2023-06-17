@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Luiz</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
+     <p>---------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgeluizandrade" alt="jorgeluizandrade" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and new languages**
+
+
+- 🌱 I’m currently learning **Frameworks and new programming language**
 
 - 💬 Ask me about **reactjs and javascript**
 
