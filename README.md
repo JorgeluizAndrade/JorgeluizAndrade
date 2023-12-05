@@ -18,21 +18,25 @@
 <h1 align="left">🧠 Top Projects</h1>
 
 ###
-
-<p align="left">- Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>HARD SKILLS: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
-
-
-###
-
-<p align="left">- Pigpay: This project creates a web app to manage KPIs, products, and transactions. Node.js, Express, and Mongoose are employed for a robust backend with organized financial records. The RESTful API enables efficient data interaction.<br><br>Hards Skills: javascript, nodejs, expressjs, MongoDb.</p><a  href="https://github.com/JorgeluizAndrade/Node-PigPay">(LINK)</a>
-
+<ul>
+<li>
+<p align="left">Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>HARD SKILLS: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
+</li>
 
 ###
 
-<p align="left">- Pinguim Chat: WebSocket application. <br>Secured user data with JWT and Google Authentication. Enabled in-app email invitations for network growth. Utilized Redis for efficient real-time data storage. Integrated Pusher for dynamic and responsive chat features, ensuring a seamless user experience.<br><br>Hards Skills: Typescript, Next.js, Redis, Tailwind, Zod, Pusher e NextAuth</p><a  href="https://github.com/JorgeluizAndrade/Pinguim-chat">(LINK)</a>
-
+<li>
+<p align="left">Pigpay: This project creates a web app to manage KPIs, products, and transactions. Node.js, Express, and Mongoose are employed for a robust backend with organized financial records. The RESTful API enables efficient data interaction.<br><br>Hards Skills: javascript, nodejs, expressjs, MongoDb.</p><a  href="https://github.com/JorgeluizAndrade/Node-PigPay">(LINK)</a>
+</li>
 
 ###
+
+<li>
+<p align="left">Pinguim Chat: WebSocket application. <br>Secured user data with JWT and Google Authentication. Enabled in-app email invitations for network growth. Utilized Redis for efficient real-time data storage. Integrated Pusher for dynamic and responsive chat features, ensuring a seamless user experience.<br><br>Hards Skills: Typescript, Next.js, Redis, Tailwind, Zod, Pusher e NextAuth</p><a  href="https://github.com/JorgeluizAndrade/Pinguim-chat">(LINK)</a>
+</li>
+
+###
+</ul>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeluizAndrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
