@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jorge-andradesouza/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=luizj1718@gmail.com&color=D14836&logoColor=white&labelColor=001&style=for-the-badge" height="35" alt="gmail logo"  />
+  <p>EMAIL: luizj1718@gmail.com</p>
 </div>
 
 ###
