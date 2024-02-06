@@ -32,7 +32,7 @@
 ###
 
 <li>
-<p align="left">Pinguim Chat: WebSocket application. <br>Secured user data with JWT and Google Authentication. Enabled in-app email invitations for network growth. Utilized Redis for efficient real-time data storage. Integrated Pusher for dynamic and responsive chat features, ensuring a seamless user experience.<br><br>Hards Skills: Typescript, Next.js, Redis, Tailwind, Zod, Pusher e NextAuth</p><a  href="https://github.com/JorgeluizAndrade/Pinguim-chat">(LINK)</a>
+<p align="left">Authentication Nest: This project uses NestJS, Docker Compose and Prisma to implement authentication with JWT. JWT tokens are generated and validated, allowing access to protected resources. Docker Compose makes container management easier, ensuring consistency in the development environment. Prisma simplifies interaction with the database. <br><br>Hards Skills: Typescript, Nest.js, PostgreSQL, PrismaOrm, Docker</p><a  href="https://github.com/JorgeluizAndrade/authentication-nestjs">(LINK)</a>
 </li>
 
 ###
