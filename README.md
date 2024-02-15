@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">A technology enthusiast, I am a developer who consistently seeks challenges to enhance my skills and contribute to projects. <br><br>I have a fascination for solving logic puzzles, data structures, and algorithms. Additionally, I enjoy teaching programming concepts to others and sharing how I solve programming problems. In summary, I write articles.</p>
+<p align="left">I`m dev with 1 year+ of experience.
+  
+Currently, I provide my services as a freelancer. I have worked on many projects and faced challenges at various difficulty levels. I am proficient in technologies such as Node, NestJS, Express, etc.
+
+Additionally, I have the ability to read, speak, and write in English.
+
+I stay updated with the latest technological trends by actively participating in developer communities, events, etc
+</p>
 
 ###
 
