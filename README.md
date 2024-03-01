@@ -29,7 +29,7 @@ I stay updated with the latest technological trends by actively participating in
 ###
 <ul>
 <li>
-<p align="left">Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>Hards Skills: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth, Zod</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
+<p align="left">Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3.5 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>Hards Skills: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth, Zod</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
 </li>
 
 ###
