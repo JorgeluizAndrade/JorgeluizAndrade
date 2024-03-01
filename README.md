@@ -6,7 +6,7 @@
   
 Currently, I provide my services as a freelancer. I have worked on many projects and faced challenges at various difficulty levels. I am proficient in technologies such as Node, NestJS, Express, etc.
 
-I am studying Computer Science at IBMR University.
+I am studying Computer Science.
 
 Additionally, I have the ability to read, speak, and write in English.
 
