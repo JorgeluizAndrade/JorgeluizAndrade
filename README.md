@@ -4,13 +4,13 @@
 
 <p align="left">I`m dev with 1 year+ of experience.
   
-Currently, I provide my services as a freelancer. I have worked on many projects and faced challenges at various difficulty levels. I am proficient in technologies such as Java, Sql, TypeScript, NestJS, etc.
+Currently, I provide my services as a freelancer. I have worked on many projects and faced challenges at various difficulty levels. I am proficient in technologies such as Java, Spring, Sql, TypeScript, NestJS.
 
 I am studying Computer Science.
 
 Additionally, I have the ability to read, speak, and write in English.
 
-I stay updated with the latest technological trends by actively participating in developer communities, events, etc
+I stay updated with the latest technological trends by actively participating in developer communities, events, etc.
 </p>
 
 ###
