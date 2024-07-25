@@ -29,19 +29,24 @@ I stay updated with the latest technological trends by actively participating in
 ###
 <ul>
 <li>
-<p align="left">Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3.5 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>Hards Skills: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth, Zod</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
+<p align="left">Dev.quiz: The project consists of a Quiz aimed at software developers, created with the goal of challenging their knowledge and enhancing their skills. A distinctive feature is the integration with the OpenAI API, specifically the GPT-3.5 turbo, a powerful language model. This model is used to generate interactive questions that provide an engaging experience for developers.<br><br>Technologies: Typescript, Nextjs, PrismaOrm, SQL, API OpenAi, NextAuth, Zod</p><a  href="https://github.com/JorgeluizAndrade/dev.quizz">(LINK)</a>
 </li>
 
 ###
 
 <li>
-<p align="left">Pigpay: This project creates a web app to manage KPIs, products, and transactions. Node.js, Express, and Mongoose are employed for a robust backend with organized financial records. The RESTful API enables efficient data interaction.<br><br>Hards Skills: javascript, nodejs, expressjs, MongoDb.</p><a  href="https://github.com/JorgeluizAndrade/Node-PigPay">(LINK)</a>
+<p align="left">Pinguim Chat: Is a real-time chat application with the following features:
+JWT authentication to ensure user data security and protection.
+Google authentication for easy and convenient login to the platform.
+Friend invitations via email (within the application).
+Real-time chat for instant communication.
+<br><br>Technologies:Typescript, Upstash, Redis, Pusher, Nextjs, and Zod </p><a  href="https://github.com/JorgeluizAndrade/Pinguim-chat">(LINK)</a>
 </li>
 
 ###
 
 <li>
-<p align="left">Authentication Nest: This project uses NestJS, Docker Compose and Prisma to implement authentication with JWT. JWT tokens are generated and validated, allowing access to protected resources. Docker Compose makes container management easier, ensuring consistency in the development environment. Prisma simplifies interaction with the database. <br><br>Hards Skills: Typescript, Nest.js, PostgreSQL, PrismaOrm, Docker</p><a  href="https://github.com/JorgeluizAndrade/authentication-nestjs">(LINK)</a>
+<p align="left">Authentication Nest: This project uses NestJS, Docker Compose and Prisma to implement authentication with JWT. JWT tokens are generated and validated, allowing access to protected resources. Docker Compose makes container management easier, ensuring consistency in the development environment. Prisma simplifies interaction with the database. <br><br>Technologies: Typescript, Nest.js, PostgreSQL, PrismaOrm, Docker</p><a  href="https://github.com/JorgeluizAndrade/authentication-nestjs">(LINK)</a>
 </li>
 
 ###
