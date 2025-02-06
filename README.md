@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! I'm Jorge Luiz, a <br>Back-End Developer from Brazil.</h2>
 
-<p align="left"> I have over 2 year of experience in software development, currently I specializing in build software's scalables. Throughout my journey, I’ve worked on numerous projects, overcoming challenges of varying complexity. I specializing in technologies such as Java, Spring Boot & Cloud, MySQL, Docker and API'S RestFul.
-I am also pursuing a degree in Computer Science and have strong English skills, both in speaking and writing.
+<p align="left"> I have over 2 years of experience in software development, currently I specializing in building scalables software. Throughout my journey, I’ve worked on numerous projects, overcoming challenges of varying complexity. I'm specializing in technologies such as Java, Spring Boot & Cloud, MySQL, Docker and RESTful APIs.
+I am also pursuing a degree in Computer Science and have English skills, both in speaking, writing and reading.
 
-To stay ahead of the curve, I actively participate in developer communities and events, keeping up with the latest trends in technology.
+Besides that, I love studying and helping people who have difficulties in their studies. For this reason, i make posts about of my studies or write articles with purpose of helping people.
 
 </p>
 <div align="left"> <a href="https://www.linkedin.com/in/jorge-andradesouza/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /> </a> <p>Email: luizj1718@gmail.com</p> </div> <h1 align="left">✨My Skills</h1> <div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,postgres,typescript,javascript,nodejs,express,nest,git,vscode,next,tailwind,github,postman,vercel" /> </a> </div>
