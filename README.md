@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Jorge Luiz, a <br>Back-End Developer from Brazil.</h2>
 
-<p align="left"> I have over 1 year of experience in software development, currently offering my services as a freelancer. Throughout my journey, I’ve worked on numerous projects, overcoming challenges of varying complexity. I am proficient in technologies such as Java, Spring Boot, SQL, TypeScript, and NestJS.
+<p align="left"> I have over 2 year of experience in software development, currently I specializing in build software's scalables. Throughout my journey, I’ve worked on numerous projects, overcoming challenges of varying complexity. I specializing in technologies such as Java, Spring Boot & Cloud, MySQL, Docker and API'S RestFul.
 I am also pursuing a degree in Computer Science and have strong English skills, both in speaking and writing.
 
 To stay ahead of the curve, I actively participate in developer communities and events, keeping up with the latest trends in technology.
