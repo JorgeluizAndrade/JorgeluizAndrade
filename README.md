@@ -11,7 +11,7 @@ Besides that, I love studying and helping people who have difficulties in their 
 <h1 align="left">🧠 Featured Projects</h1> <ul> 
   <li> 
     <p align="left"> 
-      <strong>Dev.quiz</strong>: A quiz platform designed for software developers to challenge their knowledge and improve their skills. It integrates OpenAI’s GPT-3.5 turbo to generate interactive questions, providing a dynamic learning experience.<br><br> 
+      <strong>Dev.quiz</strong>: The Dev.Quizz is a dynamic and interactive platform designed for developers of all levels and skills. If you're passionate about programming and want to test your knowledge, this is your place! Dev.Quizz offers you a series of quizzes on all programming languages with AI. With Dev.Quizz, you can challenge yourself to improve your skills for interviews. <br><br> 
       <strong>Technologies:</strong> TypeScript, Next.js, Prisma ORM, SQL, OpenAI API, NextAuth, Zod. 
     </p> 
     <a href="https://github.com/JorgeluizAndrade/dev.quizz" target="_blank">(Link)</a> 
