@@ -45,7 +45,7 @@ With Dev.Quizz, you can challenge yourself to improve your skills for interviews
   <li>
     <p align="left">
       <strong>📰 Goodnews Backend</strong><br>
-      A blog backend system with JWT-secured authentication and post/user management. Built with Spring Boot and containerized using Docker. Future support for real-time notifications via SSE.<br><br>
+      A blog backend system with JWT-secured authentication and post/user management. Built with Spring Boot and containerized using Docker.<br><br>
       <strong>🛠 Tech Stack:</strong> Java · Spring Boot · Spring Security · PostgreSQL · JPA · JWT · Docker<br>
       <a href="https://github.com/JorgeluizAndrade/Goodnews-Backend" target="_blank">🔗 Backend</a> |
       <a href="https://github.com/JorgeluizAndrade/Frontend-Goodnews" target="_blank">🔗 Frontend</a>
