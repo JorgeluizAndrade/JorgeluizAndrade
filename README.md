@@ -2,7 +2,8 @@
 
 <p align="left">
   I have over 2 years of experience in software development, currently specializing in building scalable and high-performance software solutions. 
-  Throughout my journey, I’ve worked on several projects, facing and overcoming challenges of various complexities. 
+  Throughout my journey, I’ve worked on several projects, facing and overcoming challenges of various complexities, like <a href="https://www.linkedin.com/company/nexus-profissional/posts/?feedView=all" target="_blank">Nexus Profissonal</a> and <a href="https://dev-quizz-edu.vercel.app/" target="_blank">DevQuizz</a>
+
   My main stack includes Java (17+), Typescript, Spring Boot, MySQL, Docker, and RESTful APIs. <br><br>
   I’m also pursuing a degree in Computer Science and have strong English skills — reading, writing, and speaking. <br><br>
   Beyond programming, I’m passionate about learning and helping others. I frequently share my study notes and write technical articles 
