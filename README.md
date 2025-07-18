@@ -15,7 +15,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /> 
   </a> 
   <p>Email: luizj1718@gmail.com</p> 
+  <a href="https://www.linkedin.com/in/jorge-andradesouza/" target="_blank"> 
+    My Personal site
+  </a> 
 </div>
+
+
 
 </div> <h1 align="left">✨My Skills</h1> <div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,postgres,typescript,javascript,nodejs,express,nest,git,vscode,next,tailwind,github,postman,vercel" /> </a> </div>
 
@@ -24,7 +29,7 @@
 <ul>
   <li>
     <p align="left">
-      <strong>🚀 Dev.Quizz</strong><br>
+      <strong>🚀 Dev.Quizz| Creator and Dev </strong><br>
   The Dev.Quizz is a dynamic and interactive platform designed for developers of all levels and skills. If you're passionate about programming and want to test your knowledge, this is your place! Dev.Quizz offers you a series of quizzes on all programming languages with AI, specifically Llama.
 
 With Dev.Quizz, you can challenge yourself to improve your skills for interviews. Hello, I'm Jorge Luiz from Brasil, and my mission is to help others improve their knowledge and skills. I really hope this platform can help you😁. God bless you, my friends.
