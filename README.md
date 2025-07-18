@@ -3,7 +3,7 @@
 <p align="left">
   I have over 2 years of experience in software development, currently specializing in building scalable and high-performance software solutions. 
   Throughout my journey, I’ve worked on several projects, facing and overcoming challenges of various complexities. 
-  My main stack includes Java (17+), Spring Boot & Spring Cloud, MySQL, Docker, and RESTful APIs. <br><br>
+  My main stack includes Java (17+), Typescript, Spring Boot, MySQL, Docker, and RESTful APIs. <br><br>
   I’m also pursuing a degree in Computer Science and have strong English skills — reading, writing, and speaking. <br><br>
   Beyond programming, I’m passionate about learning and helping others. I frequently share my study notes and write technical articles 
   with the purpose of supporting people who face difficulties in their learning journey.
