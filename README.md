@@ -81,7 +81,8 @@
     • Back-End with GraphQL for flexible and efficient queries.<br><br>
     <strong>🛠 Tech Stack:</strong> Java · Spring Boot · Spring for GraphQL · PostgreSQL · Docker Compose · Supabase · Lombok<br>
     <a href="https://github.com/JorgeluizAndrade/christian-intelligence-mission" target="_blank">🔗 GitHub Repository</a> |
-    <em>🚧 Coming soon online...</em>
+    <a href="https://cristo-saber.vercel.app/roadmap" target="_blank">Crito Saber</a> |
+
   </p>
 </li>
 </ul>
