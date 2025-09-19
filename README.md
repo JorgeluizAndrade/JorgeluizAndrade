@@ -77,7 +77,6 @@
     • Book, sermon, and video recommendations mapped within a hierarchical graph.<br>
     • Thematic exploration of topics like Discipleship, Miracles, Christian Wisdom, and more.<br><br>
     <strong>Architecture:</strong><br>
-    • Layered architecture with package-by-layer structure.<br>
     • Back-End with GraphQL for flexible and efficient queries.<br><br>
     <strong>🛠 Tech Stack:</strong> Java · Spring Boot · Spring for GraphQL · PostgreSQL · Docker Compose · Supabase · Lombok<br>
     <a href="https://github.com/JorgeluizAndrade/christian-intelligence-mission" target="_blank">🔗 GitHub Repository</a> |
