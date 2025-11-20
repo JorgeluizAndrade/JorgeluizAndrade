@@ -2,7 +2,7 @@
 
 <p align="left">
   I have over 2 years of experience in software development, currently specializing in building scalable and high-performance software solutions. 
-  Throughout my journey, I’ve worked on several projects, facing and overcoming challenges of various complexities, like <a href="https://www.linkedin.com/company/nexus-profissional/posts/?feedView=all" target="_blank">Nexus Profissonal</a> and <a href="https://dev-quizz-edu.vercel.app/" target="_blank">DevQuizz</a>
+  Throughout my journey, I’ve worked on several projects, facing and overcoming challenges of various complexities, like <a href="https://www.nexusprofissional.com.br" target="_blank">Nexus Profissonal</a> and <a href="https://dev-quizz-edu.vercel.app/" target="_blank">DevQuizz</a>
 
   My main stack includes Java (17+), Typescript, Spring Boot, MySQL, Docker, and RESTful APIs. <br><br>
   I’m also pursuing a degree in Computer Science and have strong English skills — reading, writing, and speaking. <br><br>
@@ -41,7 +41,7 @@
     <strong> Nexus BoostIA Tool:</strong><br>
     Developed an AI-powered tool that provides constructive feedback on resumes based on market best practices. Modeled a NoSQL database to store analyses and trained the prompt based on common errors found in user resumes. The tool helped identify user pain points and guided better educational strategies.<br><br>
     <strong>🛠 Tech Stack:</strong> Java · Spring Boot · MySQL · JPA · NoSQL · AI · Software Architecture<br>
-    <a href="https://www.linkedin.com/company/nexus-profissional/posts/?feedView=all" target="_blank">🔗 Project on LinkedIn</a>
+    <a href="https://www.nexusprofissional.com.br/" target="_blank">🔗 Project on Web</a>
   </p>
 </li>
 
