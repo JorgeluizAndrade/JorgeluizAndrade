@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<p align="center"> I am a <strong>Software Engineer</strong> from Brazil with over <strong>2 years of experience</strong> building scalable, high-performance solutions.
+<p align="center"> I am a <strong>Software Engineer</strong> from Brazil with over <strong>1 years of experience</strong>.
 
 
 Currently pursuing a <strong>Computer Science degree</strong>, I specialize in <strong>Java (17+) ecosystem</strong> and <strong>System Architecture</strong>. </p>
