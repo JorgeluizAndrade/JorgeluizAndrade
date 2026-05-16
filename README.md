@@ -30,6 +30,7 @@ I simple like code and build stuffs, so give me the task =) <br>
 
 ### 📫 Contact
 - Email: **luizj1718@gmail.com**
+- Portfólio:<a href="https://www.jojo-terminal.com.br" target="_blank"> Jojo-terminal </a> 
 
 
 
